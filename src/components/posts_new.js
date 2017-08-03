@@ -4,7 +4,7 @@ class PostsNew extends Component {
 	render() {
 		return (
 			<div>
-				PostsNew!
+				<h3>PostsNew!</h3>
 			</div>
 		)
 	}
